@@ -1,0 +1,31 @@
+slug: logging-into-an-openshift-cluster-jp
+id: p6ugnsnjmcc6
+type: track
+title: Logging into an OpenShift cluster (Japanese)
+description: |+
+  ## はじめに
+
+  * この環境が準備されてスタートするまでに20分程度かかります
+
+  ## ゴール
+
+  OpenShiftクラスターにログインする
+
+  ## 概要
+
+  * OpenShiftクラスタのWebコンソールURLを調べアクセス
+  * OpenShift Command Line Toolの利用
+  * OpenShiftの新規ユーザー作成と権限付与
+  * ユーザーの切替
+
+
+icon: https://logodix.com/logo/1910931.png
+level: beginner
+tags:
+- openshift
+owner: openshift
+developers:
+- mkoshimi@redhat.com
+private: true
+published: false
+checksum: "13930664318748583374"

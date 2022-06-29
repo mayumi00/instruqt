@@ -1,0 +1,32 @@
+slug: deploying-applications-from-source-jp
+id: byaagixlxd6s
+type: track
+title: deploying-applications-from-source (Japanese)
+description: |-
+  ## はじめに
+
+  * この環境が準備されてスタートするまでに20分程度かかります
+
+  ## ゴール
+
+  イメージからアプリケーションをビルドしてデプロイする
+
+  ## 概要
+
+  * ocコマンドを利用してプロジェクトを作成、とWebコンソールで確認
+  * Webコンソールを利用してイメージからアプリをビルド&デプロイ
+  * Webコンソールでアプリのログを確認
+  * 外部に公開されたURLにアクセスしアプリの確認
+  * アプリの削除
+  * ocコマンドでアプリを再度デプロイ
+  * ビルドトリガーの設定
+icon: https://logodix.com/logo/1910931.png
+level: beginner
+tags:
+- openshift
+owner: openshift
+developers:
+- mkoshimi@redhat.com
+private: true
+published: true
+checksum: "15786980208461826361"

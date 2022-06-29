@@ -1,0 +1,29 @@
+slug: playgrounds-openshift49-jp
+id: j4pu7qcfm1vl
+type: track
+title: playgrounds openshift 4.9 (Japanese)
+description: |
+  ## はじめに
+
+  * この環境が準備されてスタートするまでに20分程度かかります
+
+  ## ゴール
+
+  OpenShiftを体験してみる
+
+  WebコンソールまたはCLIを使用してOpenShiftクラスタにログインできます。演習項目は定めていないので、自由に利用してください。この環境の有効時間は60分です。
+
+  ## 概要
+
+  * OpenShift Web コンソールでのOpenShiftクラスタへのログイン
+  * Command Line Interface `oc` コマンドでのOpenShiftクラスタへのログイン
+icon: https://logodix.com/logo/1910931.png
+level: beginner
+tags:
+- openshift
+owner: openshift
+developers:
+- mkoshimi@redhat.com
+private: true
+published: false
+checksum: "11807580607655227157"

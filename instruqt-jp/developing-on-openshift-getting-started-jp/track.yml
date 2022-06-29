@@ -1,0 +1,29 @@
+slug: developing-on-openshift-getting-started-jp
+id: mnlh2yqjly1p
+type: track
+title: Getting Started with OpenShift for Developers (Japanese)
+description: |
+  ## はじめに
+
+  * この環境が準備されてスタートするまでに20分程度かかります
+
+  ## ゴール
+
+  OpenShift環境でアプリケーションをビルドしてデプロイする
+
+  ## 概要
+
+  * WebコンソールでOpenShiftクラスタにアクセス
+  * ocコマンドでOpenShiftクラスタにアクセス
+  * Webコンソールからアプリケーションをビルド
+  * OpenShift Routeを利用して外部に公開されたURLにアクセス
+icon: https://logodix.com/logo/1910931.png
+level: beginner
+tags:
+- openshift
+owner: openshift
+developers:
+- mkoshimi@redhat.com
+private: true
+published: true
+checksum: "2493164987854848251"
